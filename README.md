@@ -1,4 +1,5 @@
 # TransLoc QA Exercise
+[Cypress Documentation](https://docs.cypress.io/api/api/table-of-contents.html)
 
 ## Directions
 1. cd into project directory
