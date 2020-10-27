@@ -6,5 +6,5 @@
 2. Write tests for story in existing login.spec.js file
 3. To open Cypress: `$(npm bin)/cypress open`
 
-## Story: TransLoc Login Page
+## Story: [TransLoc Login Page](https://login.transloc.com/)
 As a user, I can log into TransLoc so that I can access my TransLoc products
